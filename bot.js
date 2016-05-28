@@ -1,4 +1,4 @@
-var token = "209298394:AAEfPYzByolkh_r3WWqiWqgkcqR8M797jY8";
+var token = "Your telegram bot token here";
 
 var request = require("request");
 var cheerio = require("cheerio");
